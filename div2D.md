@@ -1,10 +1,10 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Green and Black Tea](https://codeforces.com/problemset/problem/746/D) | 1500 |  |
-| 2 | [Stas and the Queue at the Buffet](https://codeforces.com/problemset/problem/1151/D) | 1500 |  |
-| 3 | [Bishwock](https://codeforces.com/problemset/problem/991/D) | 1500 |  |
-| 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 |  |
-| 5 | [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D) | 1500 |  |
+| 1 | [Green and Black Tea](https://codeforces.com/problemset/problem/746/D) | 1500 |  AC|
+| 2 | [Stas and the Queue at the Buffet](https://codeforces.com/problemset/problem/1151/D) | 1500 |  AC|
+| 3 | [Bishwock](https://codeforces.com/problemset/problem/991/D) | 1500 |  AC|
+| 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 |  AC|
+| 5 | [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D) | 1500 |  AC|
 | 6 | [Make a Permutation!](https://codeforces.com/problemset/problem/864/D) | 1500 |  |
 | 7 | [Vus the Cossack and Numbers](https://codeforces.com/problemset/problem/1186/D) | 1600 |  |
 | 8 | [Alena And The Heater](https://codeforces.com/problemset/problem/940/D) | 1600 |  |
