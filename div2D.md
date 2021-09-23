@@ -6,9 +6,9 @@
 | 4 | [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | 1500 |  AC|
 | 5 | [Lunar New Year and a Wander](https://codeforces.com/problemset/problem/1106/D) | 1500 |  AC|
 | 6 | [Make a Permutation!](https://codeforces.com/problemset/problem/864/D) | 1500 |  AC|
-| 7 | [Vus the Cossack and Numbers](https://codeforces.com/problemset/problem/1186/D) | 1600 |  |
+| 7 | [Vus the Cossack and Numbers](https://codeforces.com/problemset/problem/1186/D) | 1600 |  AC|
 | 8 | [Alena And The Heater](https://codeforces.com/problemset/problem/940/D) | 1600 |  |
-| 9 | [Love Rescue](https://codeforces.com/problemset/problem/939/D) | 1600 |  |
+| 9 | [Love Rescue](https://codeforces.com/problemset/problem/939/D) | 1600 |  AC|
 | 10 | [Extra Element](https://codeforces.com/problemset/problem/1185/D) | 1700 |  |
 | 11 | [Ticket Game](https://codeforces.com/problemset/problem/1215/D) | 1700 |  |
 | 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 |  |
