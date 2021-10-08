@@ -13,7 +13,7 @@
 | 11 | [Ticket Game](https://codeforces.com/problemset/problem/1215/D) | 1700 |  |
 | 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 |  |
 | 13 | [Artsem and Saunders](https://codeforces.com/problemset/problem/765/D) | 1700 |  |
-| 14 | [Substring](https://codeforces.com/problemset/problem/919/D) | 1700 |  |
+| 14 | [Substring](https://codeforces.com/problemset/problem/919/D) | 1700 |  AC|
 | 15 | [Harmonious Graph](https://codeforces.com/problemset/problem/1253/D) | 1700 |  |
 | 16 | [Alarm Clock](https://codeforces.com/problemset/problem/898/D) | 1700 |  |
 | 17 | [Dasha and Very Difficult Problem](https://codeforces.com/problemset/problem/761/D) | 1700 |  |
