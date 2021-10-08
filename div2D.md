@@ -11,7 +11,7 @@
 | 9 | [Love Rescue](https://codeforces.com/problemset/problem/939/D) | 1600 |  AC|
 | 10 | [Extra Element](https://codeforces.com/problemset/problem/1185/D) | 1700 |  AC|
 | 11 | [Ticket Game](https://codeforces.com/problemset/problem/1215/D) | 1700 |  |
-| 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 |  |
+| 12 | [Slime](https://codeforces.com/problemset/problem/1038/D) | 1700 |  AC|
 | 13 | [Artsem and Saunders](https://codeforces.com/problemset/problem/765/D) | 1700 |  |
 | 14 | [Substring](https://codeforces.com/problemset/problem/919/D) | 1700 |  AC|
 | 15 | [Harmonious Graph](https://codeforces.com/problemset/problem/1253/D) | 1700 |  |
