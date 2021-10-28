@@ -18,7 +18,7 @@
 | 16 | [Alarm Clock](https://codeforces.com/problemset/problem/898/D) | 1700 |  |
 | 17 | [Dasha and Very Difficult Problem](https://codeforces.com/problemset/problem/761/D) | 1700 |  |
 | 18 | [Cow and Snacks](https://codeforces.com/problemset/problem/1209/D) | 1700 |  |
-| 19 | [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | 1700 |  |
+| 19 | [Valid BFS?](https://codeforces.com/problemset/problem/1037/D) | 1700 |  AC|
 | 20 | [Glider](https://codeforces.com/problemset/problem/1041/D) | 1700 |  |
 | 21 | [Array Restoration](https://codeforces.com/problemset/problem/1023/D) | 1700 |  |
 | 22 | [Paint the Tree](https://codeforces.com/problemset/problem/1244/D) | 1700 |  |
